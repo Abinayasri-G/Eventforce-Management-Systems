@@ -12,5 +12,8 @@ Project Documentation
 
 📄 "View Complete Project Documentation (PDF)" (./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
 [📄 View Project Documentation (PDF)](./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
+## Project Documentation
+
+[📄 View EventForce Management System Documentation](https://github.com/Abinayasri-G/Eventforce-Management-Systems/raw/refs/heads/main/EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
 
 The PDF contains the complete project documentation, including the ideation phase, requirement analysis, solution architecture, project planning, Salesforce configuration, data architecture, automation, Apex implementation, security, reports, dashboards, and implementation milestones.

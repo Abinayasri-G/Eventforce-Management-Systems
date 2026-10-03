@@ -8,10 +8,6 @@ Key functionalities include event booking and scheduling, venue reservation, dou
 
 The project demonstrates how Salesforce CRM capabilities can be used to build a centralized, automated, secure, and scalable event management system while reducing manual processes and improving data accuracy and operational visibility.
 
-Project Documentation
-
-📄 "View Complete Project Documentation (PDF)" (./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
-[📄 View Project Documentation (PDF)](./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
 ## Project Documentation
 
 [📄 View EventForce Management System Documentation](https://github.com/Abinayasri-G/Eventforce-Management-Systems/raw/refs/heads/main/EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)

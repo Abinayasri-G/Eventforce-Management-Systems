@@ -11,5 +11,6 @@ The project demonstrates how Salesforce CRM capabilities can be used to build a 
 Project Documentation
 
 📄 "View Complete Project Documentation (PDF)" (./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
+[📄 View Project Documentation (PDF)](./EVENTFORCE-MANAGEMENT-SYSTEM-SALESFORCE-IMPLEMENTATION.pdf)
 
 The PDF contains the complete project documentation, including the ideation phase, requirement analysis, solution architecture, project planning, Salesforce configuration, data architecture, automation, Apex implementation, security, reports, dashboards, and implementation milestones.
